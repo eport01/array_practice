@@ -10,3 +10,6 @@ puts favorite_numbers.push "45"
 puts decimals.shift
 #The length method will return the number of elements, in this case 4.
 puts booleans.length
+puts animals[0] #returns "cat"
+puts decimals[3] #returns 4.3
+#Index positions represent the number that correspond with where the element is located in the array. The first element is at index position 0
