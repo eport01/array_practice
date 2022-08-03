@@ -13,3 +13,5 @@ puts booleans.length
 puts animals[0] #returns "cat"
 puts decimals[3] #returns 4.3
 #Index positions represent the number that correspond with where the element is located in the array. The first element is at index position 0
+puts animals.fetch(0) #returns the element at the index position of 0. In this case "cat"
+# .fetch(n) returns the element at the index position of n. 
