@@ -9,4 +9,4 @@ puts favorite_numbers.push "45"
 #The shift method will remove 2.5 and return it.
 puts decimals.shift
 #The length method will return the number of elements, in this case 4.
-booleans.length
+puts booleans.length
